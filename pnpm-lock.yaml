@@ -5,7 +5,7 @@ specifiers:
   '@types/react-dom': ^18.0.9
   '@vitejs/plugin-react-swc': ^3.0.0
   eslint: ^8.31.0
-  eslint-config-fyfirman: ^0.2.0-alpha
+  eslint-config-fyfirman: ^0.2.0
   eslint-import-resolver-typescript: ^3.5.3
   prettier: ^2.8.2
   react: ^18.2.0
@@ -22,7 +22,7 @@ devDependencies:
   '@types/react-dom': 18.0.10
   '@vitejs/plugin-react-swc': 3.0.1_vite@4.0.4
   eslint: 8.31.0
-  eslint-config-fyfirman: 0.2.0-alpha_727236ba23fd7ada9e29fad3d2db4920
+  eslint-config-fyfirman: 0.2.0_727236ba23fd7ada9e29fad3d2db4920
   eslint-import-resolver-typescript: 3.5.3_eslint@8.31.0
   prettier: 2.8.2
   typescript: 4.9.4
@@ -1065,8 +1065,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /eslint-config-fyfirman/0.2.0-alpha_727236ba23fd7ada9e29fad3d2db4920:
-    resolution: {integrity: sha512-ooJGXyszpTroSn8Dk4JzrzYIbp8hUz9yn3hpWQIjCjtZhyUzQltWZjxAPqHC4P/B44liH8HqovVxEuY0QJR5vQ==}
+  /eslint-config-fyfirman/0.2.0_727236ba23fd7ada9e29fad3d2db4920:
+    resolution: {integrity: sha512-q/28GEjr88LSIvOWQt7Szjbs+5fmlhc94QiTRuCbnBC3Sa00ag+laikJJ+sRhzfoG9haoF56mFCKz4NbxP4GjQ==}
     peerDependencies:
       eslint: ^8.31.0
       typescript: ^4.0.0
