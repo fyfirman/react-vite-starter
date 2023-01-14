@@ -41,8 +41,8 @@ This template included most used libraries and pattern that commonly used, which
 [v] Folder Structure
 [v] Zustand
 [v] Zod
-[] TanStack Query
-[] Common UI Library
+[v] TanStack Query
+[] Common UI Component
 [] Jest
 
 
