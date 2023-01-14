@@ -40,9 +40,9 @@ This template included most used libraries and pattern that commonly used, which
 [v] MSW (Mock Service Worker)
 [v] Folder Structure
 [v] Zustand
-[] Zod
-[] Common UI Library
+[v] Zod
 [] React Query Tanstack
+[] Common UI Library
 [] Jest
 
 
