@@ -42,8 +42,9 @@ This template included most used libraries and pattern that commonly used, which
 [v] Zustand
 [v] Zod
 [v] TanStack Query
-[] Common UI Component
-[] Jest
+[] Jest (Soon)
+[] React Testing Library
+[] Common UI Component -> The UI library is too much to decide. There's no perfect library for all case, so to keep this template un-opinionated I will keep this part to be missing.  
 
 
 ## Usage
