@@ -1,8 +1,8 @@
 <div align="center">
-<h1>react-vite-template</h1>
+<h1>react-vite-starter</h1>
 
 <p>Easy React Vite Template</p>
-<p>Skip preparing, Start building your solution.</p>
+<p>Skip preparing, Start building.</p>
 </div>
 
 ---
