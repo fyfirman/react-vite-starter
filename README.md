@@ -39,7 +39,8 @@ This template included most used libraries and pattern that commonly used, which
 [v] ESLint + Prettier with mature rules & configuration
 [v] MSW (Mock Service Worker)
 [v] Folder Structure
-[] Zustand
+[v] Zustand
+[] Zod
 [] Common UI Library
 [] React Query Tanstack
 [] Jest
