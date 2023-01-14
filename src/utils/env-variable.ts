@@ -1,4 +1,4 @@
 export const env = {
-  enableMock: Boolean(process.env.NEXT_PUBLIC_ENABLE_MOCK),
-  baseUrl: "http://localhost:5137",
+  enableMock: Boolean(import.meta.env.VITE_ENABLE_MOCK),
+  baseUrl: import.meta.env.BASE_URL,
 };
